@@ -1,4 +1,4 @@
-# Splunk-Deploying-a-Forwarder-and-Generating-Real-Time-Alerts
+# Splunk: Deploying a Forwarder and Generating Real-Time Alerts
 
 <h2>Description</h2>
 In this SIEM task, I installed a Splunk forwarder onto my windows vm to send security and system logs to my splunk isntance. I then cleared the security logs to trigger a saved alert for event code 1102 and confirmed the alert was triggered in Splunk. 
